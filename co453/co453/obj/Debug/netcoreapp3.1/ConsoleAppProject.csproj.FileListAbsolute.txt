@@ -1,0 +1,12 @@
+/Users/samuelasebolatan/Documents/GitHub/co453/co453/ConsoleAppProject/obj/Debug/netcoreapp3.1/ConsoleAppProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelasebolatan/Documents/GitHub/co453/co453/ConsoleAppProject/obj/Debug/netcoreapp3.1/ConsoleAppProject.AssemblyInfoInputs.cache
+/Users/samuelasebolatan/Documents/GitHub/co453/co453/ConsoleAppProject/obj/Debug/netcoreapp3.1/ConsoleAppProject.AssemblyInfo.cs
+/Users/samuelasebolatan/Documents/GitHub/co453/co453/ConsoleAppProject/obj/Debug/netcoreapp3.1/ConsoleAppProject.csproj.CoreCompileInputs.cache
+/Users/samuelasebolatan/Documents/GitHub/co453/co453/ConsoleAppProject/bin/Debug/netcoreapp3.1/ConsoleAppProject.deps.json
+/Users/samuelasebolatan/Documents/GitHub/co453/co453/ConsoleAppProject/bin/Debug/netcoreapp3.1/ConsoleAppProject.runtimeconfig.json
+/Users/samuelasebolatan/Documents/GitHub/co453/co453/ConsoleAppProject/bin/Debug/netcoreapp3.1/ConsoleAppProject.runtimeconfig.dev.json
+/Users/samuelasebolatan/Documents/GitHub/co453/co453/ConsoleAppProject/bin/Debug/netcoreapp3.1/ConsoleAppProject.dll
+/Users/samuelasebolatan/Documents/GitHub/co453/co453/ConsoleAppProject/bin/Debug/netcoreapp3.1/ConsoleAppProject.pdb
+/Users/samuelasebolatan/Documents/GitHub/co453/co453/ConsoleAppProject/obj/Debug/netcoreapp3.1/ConsoleAppProject.dll
+/Users/samuelasebolatan/Documents/GitHub/co453/co453/ConsoleAppProject/obj/Debug/netcoreapp3.1/ConsoleAppProject.pdb
+/Users/samuelasebolatan/Documents/GitHub/co453/co453/ConsoleAppProject/obj/Debug/netcoreapp3.1/ConsoleAppProject.genruntimeconfig.cache
