@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{20DEA5C5-0085-4B65-B1E2-DE58FA04F592}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="App02/BMI.cs">
+    <Files>
+      <File FileName="Program.cs" Line="5" Column="1" />
+      <File FileName="App01/DistanceConverter.cs" Line="8" Column="17" />
+      <File FileName="App01/DistanceUnits.cs" Line="10" Column="28" />
+      <File FileName="App02/BMI.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ConsoleAppProject" expanded="True">
+            <Node name="ConsoleAppProject" expanded="True">
+              <Node name="App01" expanded="True" />
+              <Node name="App02" expanded="True" />
+              <Node name="App04" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ConsoleAppProject PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
